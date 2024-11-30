@@ -1,2 +1,2 @@
-# Ubuntu
-This code is written in my UBUNTU 
+#Python
+This is a Python codes
