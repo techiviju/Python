@@ -10,3 +10,14 @@ for i in b:
 b[1]=10
 
 print("midified :-",b[1])
+
+# you can do with tuple also
+
+e=(5,6,5,8)
+
+e2=bytearray(e)
+print(" e ",e[0])
+
+print("type of e ",type(e2))
+
+print("type of e ",type(b))
