@@ -1,5 +1,5 @@
-# program 15 Accept a list and Display 
+# program 15 Accept a list ,tuple and Display 
 
-lst=eval(input("Enter a list :-"))
+val=eval(input("Enter a list/tpl :-"))
 
-print("List is :-",lst)
+print(type(val)," is :-",val)
